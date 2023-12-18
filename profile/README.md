@@ -1,6 +1,6 @@
 # *BalHom* - Balance Home App
 
-![Alt text](./balhom_icon.png?raw=true | width=100)
+<img src="https://github.com/balhom/.github/blob/main/balhom_icon.png" width="250" height="250" />
 
 Welcome to *BalHom*, your ultimate solution for managing your home finances with ease and precision. *BalHom*, short for Balance Home App, is designed to simplify the task of tracking your income and expenses while providing insightful visualizations of your financial health over time.
 
